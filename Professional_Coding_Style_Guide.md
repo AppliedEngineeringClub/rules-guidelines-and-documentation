@@ -1,4 +1,4 @@
-#**Professional and Safe Coding Style Guidelines**
+# **Professional and Safe Coding Style Guidelines**
 
 This document defines consistent, safe, and maintainable coding practices suitable for general software projects and safety-critical systems.
 
